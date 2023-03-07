@@ -1,1 +1,1 @@
-# discord-bot-api-java
+# discord-bot-api-cpp
